@@ -1,14 +1,46 @@
 body {
   text-align: center;
+  margin: 0;
   background-color: #011F3F;
+}
+h3{
+  font-family: cursive;
+  text-align: inline;
+  margin:  5% 5% 1% 5%;
+  color: #C4DDFF;
+}
+p{
+  font-family: cursive;
+  font-size: 1rem;
+  margin:  1% 5%;
+  color: #F6C6EA;
+}
+hr{
+  background-color: #011F3F;
+  border-style: dotted none none;
+  width: 3%;
+  border-color: #F9F9F9;
+  border-width: 5px;
+}
+.img{
+  float: left;
+  border-radius: 20%;
+  border: 10px solid black;
+  margin-left: 10px;
+
+}
+
+.History{
+  padding-top: 5%;
 }
 
 #level-title {
   font-family: cursive;
   font-size: 3rem;
-  margin:  5%;
+  margin:  1%;
   color: #FEF2BF;
 }
+
 
 .container {
   display: block;
